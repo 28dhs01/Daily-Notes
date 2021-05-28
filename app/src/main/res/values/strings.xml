@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyNotes</string>
+    <string name="submit_button">submit</string>
+    <string name="enter_your_note">enter your note</string>
+</resources>
